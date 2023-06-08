@@ -1,3 +1,3 @@
 # created the main python file
-import streanlit
+import streamlit
 streamlit.title('Snowflake Streamlit Application')
